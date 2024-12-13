@@ -3,17 +3,17 @@
 ### project developed with classes from the @Mateus Battisti - Hora de Codar
 
 
-## Sobre o Projeto
+## About the Project
 
-Este projeto foi desenvolvido como parte do meu aprendizado em [Node.js, JWt e MongoDB]. Ele foi baseado nas aulas do canal 
-Matheus Battisti - Hora de Codar, link para o canal https://www.youtube.com/@MatheusBattisti. Durante o processo, segui o tutorial para compreender os conceitos principais para aprimorar minhas habilidades e explorar funcionalidades adicionais.
+This project was developed as part of my learning in [Node.js, JWt, and MongoDB]. It was based on the channel's classes 
+Matheus Battisti - Time to Code, link to channel https://www.youtube.com/@MatheusBattisti. During the process, I followed the tutorial to understand the main concepts to enhance my skills and explore additional functionalities.
 
-Agradeço ao Matheus Batisti pelas aulas detalhadas e pelo conteúdo compartilhado.
+I thank Matheus Batisti for the detailed classes and the content shared.
 
-## O que eu aprendi
+## What I learned
 
-- Conceitos fundamentais de JWT.
-- Como Utilizar o Bcrypt.
-- Como trabalhar com o MongoDB, mais especificamente com o Atlas.
-- Como usar o Mongoose para trabalhar com o MongoDB.
+- Fundamental concepts of JWT.
+- How to Use Bcrypt.
+- How to work with MongoDB, more specifically with Atlas.
+- How to use Mongoose to work with MongoDB.
 
